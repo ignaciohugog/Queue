@@ -9,7 +9,7 @@
 Pod::Spec.new do |s|
   s.name             = 'Queue'
   s.version          = '0.1.0'
-  s.summary          = 'A short description of Queue.'
+  s.summary          = 'The missing Queue data struct for swift'
 
 # This description is used to generate tags and improve search results.
 #   * Think: What does it do? Why did you write it? What is the focus?
@@ -17,7 +17,7 @@ Pod::Spec.new do |s|
 #   * Write the description between the DESC delimiters below.
 #   * Finally, don't worry about the indent, CocoaPods strips it!
 
-  s.description      = 'Here shoulb be a long, long description'
+  s.description      = 'A Queue is a struct with first-in, first-out properties and methods to add elements to one ende, and remove them from either end of the queue, while maintaining accessibility to the contents without modification or removal.'
 
   s.homepage         = 'https://github.com/ignaciohugog/Queue'
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
