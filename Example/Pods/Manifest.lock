@@ -1,0 +1,16 @@
+PODS:
+  - Queue (0.1.0)
+
+DEPENDENCIES:
+  - Queue (from `../`)
+
+EXTERNAL SOURCES:
+  Queue:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  Queue: 3fab039993f9681a6109f486cbcc4c09d702f032
+
+PODFILE CHECKSUM: 8791695ef54bb04d0a61b67b7d91b0e2253045ee
+
+COCOAPODS: 1.1.1
